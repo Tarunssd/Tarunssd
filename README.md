@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tarunssd
 - 👀 I’m interested in Web Development and Problem Solving
 - 🌱 I’m currently learning Backend and React
-- 💞️ I’m looking to collaborate on Frontend development projects,python and java projects
+- 💞️ I’m looking to collaborate on Frontend development projects,python projects
 - 📫 How to reach me tarunssd2000@gmail.com
 
 <!---
