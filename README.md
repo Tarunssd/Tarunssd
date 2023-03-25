@@ -1,5 +1,6 @@
 # 💫 About Me:
 Currently working as a Software Engineer 1<br>I am currently working on creating a new google extension called<br>Note-Easy <br>I am interested in collaborating with Web development, ML and VR <br>projects<br>Loves to solve problems and build things
+My email ID: tarunssd2000@gmail.com
 
 
 ## 🌐 Socials:
